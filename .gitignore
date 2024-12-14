@@ -1,0 +1,5 @@
+venv_py_3_12/
+
+# Ignorar arquivos CSV
+*.csv
+
